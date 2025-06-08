@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 import tensorflow as tf
 import json
 
-def train_mlp_model(dataset_path="dataset_all2.csv"):
+def train_mlp_model(dataset_path="dataset_all.csv"):
     # Load dataset
     data = pd.read_csv(dataset_path)
     X = data.drop("label", axis=1).values
