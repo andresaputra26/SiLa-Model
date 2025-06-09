@@ -57,7 +57,3 @@ python test.py
 ```
 
 Tampilan akan menunjukkan video webcam dengan landmark dan prediksi gesture tangan secara live.
-
----
-
-Jika ingin ekspor ke aplikasi web (React/TensorFlow.js), kamu dapat mengonversi model ke `.json` menggunakan TensorFlow.js converter.
