@@ -1,6 +1,6 @@
 # ✋ Real-time Gesture Detection with MLP & MediaPipe
 
-Script `test.py` digunakan untuk mendeteksi gesture tangan secara real-time melalui webcam menggunakan model Machine Learning yang telah dilatih sebelumnya (`gesture_mlp_model.h5`). Proses deteksi dilakukan berdasarkan 21 titik landmark dari tangan yang diperoleh melalui MediaPipe Hands.
+`test.py` digunakan untuk mendeteksi gesture tangan secara real-time melalui webcam menggunakan model Machine Learning yang telah dilatih sebelumnya (`gesture_mlp_model.h5`). Proses deteksi dilakukan berdasarkan 21 titik landmark dari tangan yang diperoleh melalui MediaPipe Hands.
 
 ## 📁 Struktur File
 
