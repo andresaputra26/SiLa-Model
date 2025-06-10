@@ -44,4 +44,4 @@ Buka file `.ipynb` ini di Jupyter Notebook atau Google Colab dan jalankan cell s
 ## 📝 Catatan
 
 - Dataset harus sudah tersedia dalam format CSV dengan kolom koordinat landmark dan label gesture.
-- Gunakan MediaPipe Hands untuk membuat dataset gesture jika belum tersedia.
+- Gunakan MediaPipe Hands untuk membuat dataset gesture jika belum tersedia. Untuk Membuat dataset gesturenya masuk ke folder collage_data
